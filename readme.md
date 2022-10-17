@@ -1,4 +1,4 @@
-## Project Meteo APP
+## Meteo APP
 
 #### Example:
 
