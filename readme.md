@@ -6,7 +6,7 @@ An application used to show you weather by selecting locations , built with Reac
 
 ## Project Status
 
-(only necessary if incomplete)
+(Development mode)
 
 #### Example:
 
